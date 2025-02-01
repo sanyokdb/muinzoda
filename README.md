@@ -1,1 +1,1 @@
-#https://sanyokdb.github.com/muinzoda
+https://sanyokdb.github.com/muinzoda
