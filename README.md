@@ -1,1 +1,1 @@
-https://sanyokdb.github.com/muinzoda
+[Ссылка на страницу верстки](https://sanyokdb.github.io/muinzoda/)
